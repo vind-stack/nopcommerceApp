@@ -5,7 +5,6 @@ class LogGen():
     @staticmethod
     def loggerGen():
 
-
         filehandler = logging.FileHandler(".\\Logs\\automation.log")
 
         formatter = logging.Formatter("%(asctime)s: %(levelname)s: %(name)s: %(message)s",
