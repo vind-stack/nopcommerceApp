@@ -1,7 +1,5 @@
 import time
-
 import pytest
-
 from pageObjects.LoginPage import LoginPage
 from pageObjects.add_New_Customer import AddNewCustomer
 from pageObjects.searchCustomer import SearchCustomer

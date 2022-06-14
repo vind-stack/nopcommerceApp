@@ -26,7 +26,7 @@ class Test_001_Login():
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_homePage.PNG")
             self.driver.close()
-            self.logger.info("*********** HomepageTitle test is Failed *********")
+            self.logger.error("*********** HomepageTitle test is Failed *********")
             assert False
 
 

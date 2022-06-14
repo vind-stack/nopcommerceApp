@@ -731,3 +731,19 @@
 05/25/2022 12:38:29 PM: INFO: Test_002_DDT_Login: ********** Verifying Test_002_DDT_Login *********
 05/25/2022 12:38:29 PM: INFO: Test_002_DDT_Login: ********** verifying DDT Login Test **********
 05/25/2022 12:38:44 PM: INFO: Test_002_DDT_Login: ******* DDT Test is Passed **********
+06/13/2022 01:59:30 PM: INFO: Test_001_Login: ********* Test_001_Login *********
+06/13/2022 01:59:30 PM: INFO: Test_001_Login: ******* verifying home page title ******
+06/13/2022 01:59:33 PM: INFO: Test_001_Login: ****** HomepageTitle test is Passed *******
+06/13/2022 01:59:36 PM: INFO: Test_001_Login: ********** verifying Login Test **********
+06/13/2022 01:59:45 PM: ERROR: Test_001_Login: ********** Login Test is Failed *******
+06/14/2022 12:01:05 PM: INFO: Test_003_AddCustomer: ********** Test_003_AddCustomer ***********
+06/14/2022 12:01:05 PM: INFO: Test_003_AddCustomer: ********** test_Login ***********
+06/14/2022 12:01:12 PM: INFO: Test_003_AddCustomer: ********** test_Login is Successfull ***********
+06/14/2022 12:01:12 PM: INFO: Test_003_AddCustomer: ********** test_addCustomer ***********
+06/14/2022 12:01:24 PM: INFO: Test_003_AddCustomer: ********** providing customer details ***********
+06/14/2022 12:01:39 PM: INFO: Test_003_AddCustomer: *********** saved the customer details ***********
+06/14/2022 12:01:39 PM: INFO: Test_003_AddCustomer: *********** add customer validation started ***********
+06/14/2022 12:01:39 PM: INFO: Test_003_AddCustomer: *********** Add customer test is passed **********
+06/14/2022 12:01:47 PM: INFO: Test_003_AddCustomer: ******** Ending of Add customer Test ************
+06/14/2022 12:01:51 PM: INFO: Test_001_Login: ********** verifying Login Test **********
+06/14/2022 12:02:01 PM: INFO: Test_001_Login: ********* Login Test is Passed ********
